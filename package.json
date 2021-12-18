@@ -2,7 +2,7 @@
     "name": "fleetish",
     "publisher": "k8r",
     "displayName": "Fleetish",
-    "description": "A theme based on a screenshot of JetBrains Fleet. May or may not be accurate ¯_(ツ)_/¯",
+    "description": "A theme based on a screenshot of JetBrains Fleet. May or may not be accurate.",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.63.0"
