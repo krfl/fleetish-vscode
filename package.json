@@ -1,0 +1,21 @@
+{
+    "name": "fleetish",
+    "displayName": "Fleetish",
+    "description": "A theme based on a screenshot of JetBrains Fleet. May or may not be accurate ¯_(ツ)_/¯",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Fleetish",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Fleetish-color-theme.json"
+            }
+        ]
+    }
+}
